@@ -1,9 +1,4 @@
-google-ai-generativelanguage==0.6.15
-google-api-core==2.19.0
-google-api-python-client==2.129.0
-google-auth==2.48.0
-google-auth-httplib2==0.2.0
-google-auth-oauthlib==1.2.0
-google-cloud-texttospeech==2.27.0
-google-genai==1.60.0
-googleapis-common-protos==1.63.0
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2

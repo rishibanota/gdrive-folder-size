@@ -1,9 +1,4 @@
 import sys
-
-
-if '3.9.7' in sys.version:
-         sys.path.append('/storage/emulated/0/.python-lib/')
-
 import re
 import os
 import pickle
